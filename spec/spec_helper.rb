@@ -1,4 +1,4 @@
-require_relative 'spec/variable.rb'
+require_relative '../variable.rb'
 
 RSpec.configure do |config|
   config.order = 'default'
